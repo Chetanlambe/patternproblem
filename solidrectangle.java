@@ -1,4 +1,4 @@
-//print solid rectange
+//print solid rectange & taken the input from the user
 import java.util.Scanner;
 public class solidrectangle {
     public static void main(String[] args) {
